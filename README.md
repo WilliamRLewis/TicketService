@@ -8,8 +8,7 @@ I assume a backend layer capable of the following:
  4. Upon reserving a seat I can get a generated reservationID
  
 Instructions for command line run:
-navigate to /ticket/ (directory containing the pom)
-run the following commands
+Open the command line and navigate to the /ticket/ directory (contains the POM.xml)
+run the following commands from the command line
   1. mvn clean
   2. mvn package
-  3.mvn test
